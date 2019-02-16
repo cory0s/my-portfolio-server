@@ -1,0 +1,23 @@
+{
+  "name": "my-portfolio-server",
+  "version": "1.0.0",
+  "description": "Basic Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cory0s/my-portfolio-server.git"
+  },
+  "author": "Cory Henderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cory0s/my-portfolio-server/issues"
+  },
+  "homepage": "https://github.com/cory0s/my-portfolio-server#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4"
+  }
+}
